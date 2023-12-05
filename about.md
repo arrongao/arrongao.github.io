@@ -1,3 +1,3 @@
-layout: page
-title: "about"
-permalink: /about
+### 关于我
+
+
